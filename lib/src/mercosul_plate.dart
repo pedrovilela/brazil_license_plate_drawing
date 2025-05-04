@@ -65,7 +65,7 @@ class MercosulPlate extends StatelessWidget {
 
   /// Relation between the height of the letters of the license plate and the entire
   /// license plate height.
-  static const double _lettersHeightRelation = 130 / 250;
+  static const double _lettersHeightRelation = 100 / 250;
   // Default plate width if neither width or height values were provided for the
   // class constructor
   static const double _defaultWidth = 300;
